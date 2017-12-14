@@ -1,4 +1,4 @@
-package com.toolbox;
+package com.toolbox.utils;
 
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
