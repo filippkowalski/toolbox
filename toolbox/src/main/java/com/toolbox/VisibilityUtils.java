@@ -1,4 +1,4 @@
-package com.filippkowalski.toolkit;
+package com.toolbox;
 
 import android.view.View;
 
