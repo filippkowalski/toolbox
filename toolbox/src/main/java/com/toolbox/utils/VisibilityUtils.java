@@ -40,4 +40,16 @@ public class VisibilityUtils {
 	public static void hide(View view) {
 		view.setVisibility(View.GONE);
 	}
+
+	public static void invisible(View view) {
+		view.setVisibility(View.INVISIBLE);
+	}
+
+	public static void invisible(boolean show, View view) {
+		if (show) {
+			show(view);
+		} else {
+			invisible(view);
+		}
+	}
 }

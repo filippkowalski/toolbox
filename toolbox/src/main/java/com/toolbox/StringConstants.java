@@ -22,4 +22,5 @@ public class StringConstants {
 	public static final String AMPERSAND = "&";
 	public static final char ASTRISKS = '*';
 	public static final String AT = "@";
+	public static final String VERSION = "V";
 }
